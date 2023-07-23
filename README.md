@@ -5,9 +5,9 @@
 
 ### How to run the code
 
-`npm install` or `npm i`
-`npm run dev` *To start the main server to serve posts*
-`npm run devAuthToken` *To start the authentication server which runs on port: 4000*
+1. `npm install` or `npm i`
+2. `npm run dev` *To start the main server to serve posts*
+3. `npm run devAuthToken` *To start the authentication server which runs on port: 4000*
 
 - Server for posts is running on 3000 and Auth server on 4000
 - We can login with Auth server to get the accessToken and refreshToken
