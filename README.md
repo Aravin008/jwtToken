@@ -9,6 +9,7 @@
 2. `npm run dev` *To start the main server to serve posts*
 3. `npm run devAuthToken` *To start the authentication server which runs on port: 4000*
 
+## How does it work
 - Server for posts is running on 3000 and Auth server on 4000
 - We can login with Auth server to get the accessToken and refreshToken
 - /token is used to get new accessToken on Forbidden expiration of accessToken
