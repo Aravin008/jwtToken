@@ -1,6 +1,6 @@
 # jwtToken
 
-## Simple use case for JWT token usecases
+## Simple example for JWT token usecases
 
 
 ### How to run the code
